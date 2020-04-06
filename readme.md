@@ -1,5 +1,6 @@
 <h2>Rich text Editor + Shortcuts</h2>
-![](/icon/richText.png)
+
+<img src=”/icon/richText.png”>
 <h3> Why I created?</h3>
 <p>
 The creation of this project aims to help beginners in programming with a readable and simple code for understanding.</p>
