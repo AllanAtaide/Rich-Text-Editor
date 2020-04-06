@@ -8,15 +8,12 @@
 <p>
 The creation of this project aims to help beginners in programming with a readable and simple code for understanding.</p>
 
-<br>
-<br>
 <h3>Design<h3>
 <br>
-<a href="https://getbootstrap.com/">Bootstrap 4.4</a>
+<a href="https://getbootstrap.com/">Bootstrap 4.4</a><br>
 <a href="https://jquery.com/">Jquery</a>
 <br>
 <h3>Shortcuts</h3>
-
 <h4>ALT + 1</h4> = <p>font 1</p>
 <h4>ALT + 3</h4> = <p>font 3</p>
 <h4>ALT + 4</h4> = <p>font 4</p>
