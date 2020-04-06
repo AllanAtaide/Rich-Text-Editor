@@ -1,7 +1,7 @@
 <h2>Rich text Editor</h2>
 <br>
 <br>
-<img height=" 500px" width ="500px" src=”https://github.com/AllanAtaide/Rich-Text-Editor/blob/master/icon/richtext.png”>
+<img height=" 500px" width ="500px" src=”richText.png”>
 <h3> Why I created?</h3>
 <p>
 The creation of this project aims to help beginners in programming with a readable and simple code for understanding.</p>
