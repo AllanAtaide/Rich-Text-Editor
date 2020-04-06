@@ -1,6 +1,6 @@
 <h2>Rich text Editor + Shortcuts</h2>
-<br>
-<br>
+![richtext](https://user-images.githubusercontent.com/34951453/78513627-8096a980-7783-11ea-8e0a-3174de186855.png)
+
 <h3> Why I created?</h3>
 <p>
 The creation of this project aims to help beginners in programming with a readable and simple code for understanding.</p>
